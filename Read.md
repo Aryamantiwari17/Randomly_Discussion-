@@ -239,6 +239,3 @@ Until then, the black market isn't a fringe phenomenon or a technical curiosity.
 
 The people buying cheap tokens think they're getting a deal. They are. They're just not the only ones profiting from their queries.
 
----
-
-*The author covers AI infrastructure, model economics, and the technical underpinnings of the AI industry.*
