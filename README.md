@@ -3,7 +3,6 @@
 *A technical breakdown of how frontier model arbitrage works, why it's structurally hard to stop, and what's actually being stolen*
 
 ---
-
 ## The Wrong Mental Model
 
 Most people, when they hear "black market AI access," picture something like software piracy — someone cracking a license key, distributing a model illegally, getting something for free.
